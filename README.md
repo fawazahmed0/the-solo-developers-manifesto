@@ -6,7 +6,7 @@ _This guide will help solo developers achieve what could be achieved by teams by
 
 Each Phase should be timeboxed
 
-1. **Planning:**
+ **1. Planning:**
 
 - Define objectives/ from users&#39; perspective (what user problem it solves, what user wants etc) and not from Devs perspective (Extra features, fancy looking etc), also write basic user acceptance test
 - Start this Phase ASAP to avoid going beyond deadline
@@ -36,7 +36,7 @@ Each Phase should be timeboxed
 - overestimation-Parkinson&#39;s law, underestimation-no work/feature get done
 - Proper estimation is very important for highest productivity (No time limit/deadline - Low productivity)
 
-1. **Implementation:**
+**2. Implementation:**
 
 - Make sure I am following the manifesto properly
 - Start day by observing/tracking yesterday&#39;s task and deadline, things TODO today, and any blocking issue to fix it
@@ -58,12 +58,12 @@ Each Phase should be timeboxed
 - Minimal documentation for users and also about how the code works (for myself &amp; future Devs) (Code comments, unit test cases above function, etc)
 - PR/Marketing (Write Medium/dev.to Article, Answering SO, Quora etc, 4P&#39;s-Price, Product, Place, Promotion, Market Targeting/Segmentation message with differentiation &amp; positioning) (Refer similar software to make marketing message), use good GFX(pixabay)
 
-1. **Measurement:**
+**3. Measurement:**
 
 - Measure &amp; document the estimated time vs actual time taken for subtask, to help in future estimation using my historical values (by seeing time taken previous for similar subtask) and also for retrospective to make things better
 - Google Timer to measure task and then use Google stopwatch to measure extra time taken (This helps in future estimation by comparing estimated time vs actual time)
 
-1. **Retrospective:**
+**4. Retrospective:**
 
 - Happens at end of sprint, involves looking back at how the sprint went
 
