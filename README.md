@@ -1,0 +1,1 @@
+# the-solo-developers-manifesto
