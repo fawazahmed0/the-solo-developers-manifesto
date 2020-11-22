@@ -129,7 +129,7 @@ Each Phase should be timeboxed
 
 **Daily Routine:**
 
-Prophet Muhammad (May God&#39;s Peace by on him) has been guiding example for this daily routine.
+Prophet Muhammad (May God's Peace be on him) has been guiding example for this daily routine.
 
 Because God says:
 
