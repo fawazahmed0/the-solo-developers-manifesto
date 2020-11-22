@@ -1,12 +1,10 @@
 <h1 align="center">The Solo Developers Manifesto    </h1>
 
-_This guide will help solo developers achieve what could be achieved by teams by God&#39;s mercy_
-
 <p align="center">
   <img width="460" height="300" src="https://github.com/fawazahmed0/the-solo-developers-manifesto/raw/main/agile.png">
 </p>
 
-
+_This guide will help solo developers achieve what could be achieved by teams by God&#39;s mercy_
 
 **Phases:**
 
