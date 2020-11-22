@@ -106,8 +106,8 @@ Each Phase should be timeboxed
 
 **Productivity Tools:**
 
-- G Suite (Calendar, sheets etc), code time (Time tracker metrics)
-- Asana (Kanban boards)
+- G Suite (Calendar, sheets etc), VS Code (Code Completion)
+- Asana (Kanban boards),  Code Time (Time tracker metrics)
 - Prowritingaid, Hemingwayapp (Documentation/Marketing message simplification)
 - GitHub Projects with ZenHub (Agile Project Management)
 - GitHub Actions (CI/CD)
