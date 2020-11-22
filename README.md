@@ -66,7 +66,6 @@ Each Phase should be timeboxed
 **4. Retrospective:**
 
 - Happens at end of sprint, involves looking back at how the sprint went
-
 - what things I can use? where I can make things better?
 - See why I am taking more time than estimated time for different task etc
 - Try Sheets/Excel Charts to analyse my historical data(ZenHub provides great reports)
