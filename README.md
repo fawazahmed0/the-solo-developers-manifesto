@@ -164,3 +164,6 @@ You should give equal importance to each. Some people work whole day without giv
 
 - This is the time you give to your family and other people, such as bringing grocery for family, giving time to wife, parents etc, taking family member to doctor when they are sick, helping in household chores etc
 - Start working on tasks in here after work time
+
+**Live Demo:**
+This [Free Currency Exchange API](https://github.com/fawazahmed0/currency-api) was made by following this manifesto
