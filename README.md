@@ -25,7 +25,7 @@ Each Phase should be timeboxed
 **1.1 Designing** :
 
 - complicated user interactions/simple requirements interaction with simple use case design (draw.io)
-- simple UI design with MS paint, use tested UI design patterns (e.g. Want to add search bar? use Google search bar design)
+- simple UI design (MS paint), use tested UI design patterns (e.g. Want to add search bar? use Google search bar design)
 - Spike solution (small experiment/program to research the answer to a problem)
 - simplest design (no fancy features etc, don&#39;t worry about future requirements)
 - worse is better, Software that is limited, but simple to use is better, than buggy or complex software with complex features (less features, more quality)
