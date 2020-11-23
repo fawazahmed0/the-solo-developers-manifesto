@@ -45,9 +45,9 @@ Each Phase should be timeboxed
 - Make sure I am following the manifesto properly
 - Start day by observing/tracking yesterday&#39;s task and deadline, things TODO today, and any blocking issue to fix it
 - Track the work daily to meet deadline (Zen Hub-burndown chart, Kanban board) &amp; correct productivity/blocking issue if any and prioritize accordingly
-- Use pomodoro Timer Technique for Time Management -\&gt; work for n tasks for x mins(30-90mins,depending on estimated time), small break(3-5mins) if fewer than n task completed else large break(10-15mins), pomodoro is indivisible and cannot be interrupted, other things should be done after pomodoro or else abandon pomodoro. After task completion any remaining time used for Reviewing the work and also seeing from learning POV (What I learned? What could be done better etc)
+- Use pomodoro Timer Technique for Time Management -> work for n tasks for x mins(30-90mins,depending on estimated time), small break(3-5mins) if fewer than n task completed else large break(10-15mins), pomodoro is indivisible and cannot be interrupted, other things should be done after pomodoro or else abandon pomodoro. After task completion any remaining time used for Reviewing the work and also seeing from learning POV (What I learned? What could be done better etc)
 - Use Test-driven development (TDD) during coding:
-  - Convert software feature/requirement -\&gt; test case (concise, note it down for future unit testing),
+  - Convert software feature/requirement -> test case (concise, note it down for future unit testing),
   - run test and see it fail,
   - write code to only pass the test (No refactoring)
   - run test and see it pass (the code should not break any existing feature) (if it&#39;s gotten hard to pass the above code, then revert the above code to avoid excessive debugging) &amp; commit,
@@ -60,11 +60,11 @@ Each Phase should be timeboxed
 **2.2 Documentation &amp; PR:**
 
 - Minimal documentation for users and also about how the code works (for myself &amp; future Devs) (Code comments, unit test cases above function, etc)
-- PR/Marketing (Write Medium/dev.to/LinkedIn Article, Reddit, Product Hunt, Answering SO, Quora etc, 4P&#39;s-Price, Product, Place, Promotion, Market Targeting/Segmentation message with differentiation &amp; positioning) (Refer similar software to make marketing message), use good GFX(pixabay)
+- PR/Marketing (Write Medium/dev.to/LinkedIn Article, Reddit, Product Hunt, Answering SO, Quora etc, 4P&#39;s-Price, Product, Place, Promotion, Market Targeting/Segmentation message with differentiation &amp; positioning) (Refer similar software to make marketing message), use good Graphics(pixabay)
 
 **3. Measurement:**
 
-- Measure &amp; document the estimated time vs actual time taken for subtask, to help in future estimation using my historical values (by seeing time taken previous for similar subtask) and also for retrospective to make things better
+- Measure &amp; document the estimated time vs actual time taken for subtask, to help in future estimation using my historical values (by seeing time taken previously for similar subtask) and also for retrospective to make things better
 - Google Timer to measure task and then use Google stopwatch to measure extra time taken (This helps in future estimation by comparing estimated time vs actual time)
 
 **4. Retrospective:**
@@ -85,7 +85,7 @@ Each Phase should be timeboxed
 
 **Things to Remember:**
 
-- Eliminate waste (partial work, multitasking, task switching, bugs, extra features, relearning, unnecessarily complex solution, unnecessary stress, building wrong feature, rework)
+- Eliminate waste (partial work, multitasking, task switching, bugs, extra features, relearning, unnecessarily complex solution, unnecessary stress, building wrong feature, rework, waiting)
 - Implement new learnings
 - Decide as late as possible (so that to know more about problem and not waste time on things that&#39;s not required)
 - Deliver ASAP
