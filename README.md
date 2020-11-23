@@ -60,7 +60,7 @@ Each Phase should be timeboxed
 **2.2 Documentation &amp; PR:**
 
 - Minimal documentation for users and also about how the code works (for myself &amp; future Devs) (Code comments, unit test cases above function, etc)
-- PR/Marketing (Write Medium/dev.to/LinkedIn Article, Reddit, Product Hunt, Answering SO, Quora etc, 4P&#39;s-Price, Product, Place, Promotion, Market Targeting/Segmentation message with differentiation &amp; positioning) (Refer similar software to make marketing message), use good Graphics(pixabay)
+- PR/Marketing (Write Medium/dev.to/LinkedIn Article, Reddit, Product Hunt, Answering SO, Quora, SEO keywords etc, 4P&#39;s-Price, Product, Place, Promotion, Market Targeting/Segmentation message with differentiation &amp; positioning) (Refer similar software to make marketing message), use good Graphics(pixabay)
 
 **3. Measurement:**
 
