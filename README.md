@@ -100,7 +100,7 @@ Each Phase should be timeboxed
 - During sprint you might have personal ideas (Urge to Google search something), project related ideas (new features), just write those into personal notes/to-do list to refer it back in personal time. This will reduce stress and help us to be focused (GTD Method)
 - Automated testing (unit etc), CI/CD is great for software which have to be maintained for long time/always and not for small GitHub hobby projects which are onetime thing
 - High cohesion in function (only does one simple task) and low coupling (low dependency on other function)
-- Take longer break(30-60mins) when no longer productive/frustrated, if doesn&#39;t work, then do the work next day
+- Take break/nap(~30mins) when no longer productive/frustrated, if doesn&#39;t work, then do the work next day
 - Batch Check everything one time daily (emails, messages, SMS, calls, news, sites etc) (Don&#39;t check again &amp; again) and mark imp emails to reply at end of work time
 - Headphones (inc conc.mp3) to avoid distraction
 
