@@ -36,7 +36,7 @@ Each Phase should be timeboxed
 
 **1.2 Estimation:**
 
-- 10-20% buffer time while estimating deadline (E.g. 1-day buffer means, release date 29th-30th) (avoids stress &amp; frustrations)
+- 10-30% buffer time while estimating deadline (E.g. 1-day buffer means, release date 29th-30th) (avoids stress &amp; frustrations)
 - overestimation-Parkinson&#39;s law, underestimation-no work/feature get done
 - Proper estimation is very important for highest productivity (No time limit/deadline - Low productivity)
 
