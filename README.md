@@ -97,7 +97,7 @@ Each Phase should be timeboxed
 - commits on one main branch to avoid merge hell (don&#39;t keep multiple feature branch)
 - When a bug is found, tests are created before the bug is addressed (a bug is not an error in logic; it is a test that was not written)
 - embrace change (new features etc)
-- During sprint you might have personal ideas (Urge to Google search something), project related ideas (new features), just write those into personal notes/to-do list to refer it back in personal time. This will reduce stress and help us to be focused (GTD Method)
+- During sprint you might have personal ideas (Urge to Google search something), project related ideas (new features), just write those into personal notes/to-do list(or somwhere else) to refer it back in personal/work time. This will reduce stress and help us to be focused (GTD Method)
 - Automated testing (unit etc), CI/CD is great for software which have to be maintained for long time/always and not for small GitHub hobby projects which are onetime thing
 - High cohesion in function (only does one simple task) and low coupling (low dependency on other function)
 - Take break/nap(~30mins) when no longer productive/frustrated, if doesn&#39;t work, then do the work next day
