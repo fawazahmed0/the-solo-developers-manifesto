@@ -154,7 +154,7 @@ You should give equal importance to each. Some people work whole day without giv
 - Prefer working after waking up
 - 1-day rest after every iteration/sprint/release
 - Take 15-30min nap 6-7 hrs after waking up (Increases Productivity)
-- Have ergonomics Computer chair &amp; table and take 20sec break every 15mins (Use strechly, stand up and move during break &amp; stretch your body) (Prevents Computer related injuries)
+- Have ergonomics Computer chair &amp(Back posture straight); table and take 20sec break every 15mins (Use strechly, stand up and move during break &amp; stretch your body) (Prevents Computer related injuries)
 
 **Personal Time:**
 
