@@ -115,7 +115,7 @@ Each Phase should be timeboxed
 
 **Why Solo is Great:**
 
-- Be humble &amp; happy &amp; be thankful to God for being solo developer, as you are saved from Ideocracies of a team
+- Be humble &amp; happy &amp; be thankful to God for being solo developer, as you are saved from idiocracies of a team
 - No Difference of opinion
 - No rework due to communication gap
 - No need to show off work to someone
