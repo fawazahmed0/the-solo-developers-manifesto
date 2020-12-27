@@ -161,6 +161,7 @@ You should give equal importance to each. Some people work whole day without giv
 - This is the time you give to yourself, for example looking your health, clothes, hygiene, ID renewal etc (For example torn shoes, repair it or get it repaired from cobbler or buy new one)
 - Exercise weekly twice (e.g.: Rope skipping 10mins for healthy heart)(Sat,Tue Fixed Date)
 - Be physically active by performing household chores
+- Eat moderately (avoids laziness)
 - Start working on tasks in here after work time
 
 **Family/Social Time:**
