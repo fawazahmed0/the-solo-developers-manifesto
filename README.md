@@ -150,7 +150,7 @@ You should give equal importance to each. Some people work whole day without giv
 **Work Time:**
 
 - This is the time you work
-- 8-9 Hours/Daily (Note work starting time & set workday ending time by adding 9 hours to start time,eg:start time:02:00, end time:11:00)
+- 9 Hours/Daily(incl breaks) (Note work starting time & set workday ending time by adding 9 hours to start time,eg:start time:02:00, end time:11:00)
 - Prefer working after waking up
 - 1-day rest after every iteration/sprint/release
 - Take 15-30min nap 6-7 hrs after waking up (Increases Productivity)
