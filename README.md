@@ -20,7 +20,7 @@ Each Phase should be timeboxed
 - Subdivide the work recursively till you get the smallest task unit, this helps in proper estimation
 - Story -> Features -> Task -> Sub Task
 - Add the tasks in backlog &amp; group tasks into meaningful group &amp; Sort the group by priority/MoSCoW (Must have, should have, could have, and Won&#39;t have, use users POV during prioritization) &amp; story points (Reprioritization/Re-estimation/Redo Dead lining if new feature is added to backlog)
-- Timebox each Sub Task and keep daily tasks to do list
+- Timebox each Sub Task and keep daily tasks to do list (Tasks completable in 8-9 hours)
 
 **1.1 Designing** :
 
