@@ -152,7 +152,7 @@ You should give equal importance to each. Some people work whole day without giv
 
 - This is the time you work
 - 9 Hours/Daily(incl breaks) (Note down work starting time, to track how many hrs worked)
-- Prefer working after waking up
+- Prefer working after waking up (Start with work, rather than checking emails, messages, SMS, calls, news, sites etc to avoid distractions)
 - 1-day rest after every iteration/sprint/release
 - Take 15-30min nap 6-7 hrs after waking up (Increases Productivity)
 - Have ergonomics Computer chair & table(keep back posture straight) and take 20sec break every 15mins (Use stretchly, stand up and move during break &amp; stretch your body) (Prevents Computer related injuries)
