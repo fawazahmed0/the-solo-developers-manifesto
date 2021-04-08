@@ -86,6 +86,7 @@ Each Phase should be timeboxed
 **Things to Remember:**
 
 - Eliminate waste (partial work, multitasking, task switching, bugs, extra features, relearning, unnecessarily complex solution, unnecessary stress, building wrong feature, rework, waiting)
+- Concentrate and work on single task at a time
 - Implement new learnings
 - Decide as late as possible (so that to know more about problem and not waste time on things that&#39;s not required)
 - Deliver ASAP
