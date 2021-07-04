@@ -72,7 +72,7 @@ Each Phase should be timeboxed
 - Happens at end of sprint, involves looking back at how the sprint went
 - what things I can use? where I can make things better?
 - See why I am taking more time than estimated time for different task etc
-- Try Sheets/Excel Charts to analyse my historical data(ZenHub provides great reports)
+- Try Sheets/Excel Charts to analyse my historical data
 - Plot estimation vs actual time for task on a graph to see your personal time estimate accuracy trend
 - Learn from mistakes (Unnecessarily complex solutions, being perfectionist, using unstable libraries effects quality/stability)
 - Learn from customer question/feedback? Why is customer/user asking/saying that, is there a lacking doc/feature
@@ -111,7 +111,7 @@ Each Phase should be timeboxed
 - G Suite (Calendar, sheets etc), VS Code (Code Completion)
 - Asana (Kanban boards),  Code Time (Time tracker metrics)
 - Prowritingaid, Hemingwayapp (Documentation/Marketing message simplification)
-- GitHub Projects with ZenHub (Agile Project Management)
+- GitHub Projects (Agile Project Management)
 - GitHub Actions (CI/CD)
 - DeepCode(code review), StandardJS(Consistent code style)
 
