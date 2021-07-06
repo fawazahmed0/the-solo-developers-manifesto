@@ -44,7 +44,7 @@ Each Phase should be timeboxed
 
 - Make sure I am following the manifesto properly
 - Start day by observing/tracking yesterday&#39;s task and deadline, things TODO today, and any blocking issue to fix it
-- Track the work daily to meet deadline (Zen Hub-burndown chart, Kanban board) &amp; correct productivity/blocking issue if any and prioritize accordingly
+- Track the work daily to meet deadline (GitHub Project - Kanban board) &amp; correct productivity/blocking issue if any and prioritize accordingly
 - Use pomodoro Timer Technique for Time Management -> work for n tasks for x mins(30-90mins,depending on estimated time), small break(3-5mins) if fewer than n task completed else large break(10-15mins), pomodoro is indivisible and cannot be interrupted, other things should be done after pomodoro or else abandon pomodoro. After task completion any remaining time used for Reviewing the work and also seeing from learning POV (What I learned? What could be done better etc)
 - Use Test-driven development (TDD) during coding:
   - Convert software feature/requirement -> test case (concise, note it down for future unit testing),
@@ -109,11 +109,11 @@ Each Phase should be timeboxed
 **Productivity Tools:**
 
 - G Suite (Calendar, sheets etc), VS Code (Code Completion)
-- Asana (Kanban boards),  Code Time (Time tracker metrics)
+- Code Time (Time tracker metrics)
 - Prowritingaid, Hemingwayapp (Documentation/Marketing message simplification)
-- GitHub Projects (Agile Project Management)
+- GitHub Projects (Agile Project Management, Kanban boards)
 - GitHub Actions (CI/CD)
-- DeepCode(code review), StandardJS(Consistent code style)
+- DeepCode/SynkCode(code review), StandardJS(Consistent code style)
 
 **Why Solo is Great:**
 
