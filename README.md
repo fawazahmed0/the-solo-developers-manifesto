@@ -6,11 +6,11 @@
 
 _This guide will help solo developers achieve what could be achieved by teams by God&#39;s mercy_
 
-**Phases:**
+### Phases:
 
 Each Phase should be timeboxed
 
- **1. Planning:**
+#### 1. Planning:
 
 - Define objectives/ from users&#39; perspective (what user problem it solves, what user wants etc) and not from Devs perspective (Extra features, fancy looking etc), also write basic user acceptance test
 - Start this Phase ASAP to avoid going beyond deadline
@@ -22,7 +22,7 @@ Each Phase should be timeboxed
 - Add the tasks in backlog &amp; group tasks into meaningful group &amp; Sort the group by priority/MoSCoW (Must have, should have, could have, and Won&#39;t have, use users POV during prioritization) &amp; story points (Reprioritization/Re-estimation/Redo Dead lining if new feature is added to backlog)
 - Timebox each Sub Task and keep daily tasks to do list (Tasks completable in 8-9 hours)
 
-**1.1 Designing** :
+##### 1.1 Designing :
 
 - complicated user interactions/simple requirements interaction with simple use case design (draw.io)
 - simple UI design (MS paint), use tested UI design patterns (e.g. Want to add search bar? use Google search bar design)
@@ -34,13 +34,13 @@ Each Phase should be timeboxed
 - complete design: The design must cover as many important situations as is practical. All reasonably expected cases must be covered. Simplicity is not allowed to overly reduce completeness.
 - Use software standards for everything (e.g. semantic versioning etc)
 
-**1.2 Estimation:**
+##### 1.2 Estimation:
 
 - 10-30% buffer time while estimating deadline (E.g. 1-day buffer means, release date 29th-30th) (avoids stress &amp; frustrations)
 - overestimation-Parkinson&#39;s law, underestimation-no work/feature get done
 - Proper estimation is very important for highest productivity (No time limit/deadline - Low productivity)
 
-**2. Implementation:**
+#### 2. Implementation:
 
 - Make sure I am following the manifesto properly
 - Start day by observing/tracking yesterday&#39;s task and deadline, things TODO today, and any blocking issue to fix it
@@ -53,21 +53,21 @@ Each Phase should be timeboxed
   - run test and see it pass (the code should not break any existing feature) (if it&#39;s gotten hard to pass the above code, then revert the above code to avoid excessive debugging) &amp; commit,
   - refactor the new code and the whole code &amp; commit (deepcode/standardjs --fix)
 
-**2.1 Testing:**
+##### 2.1 Testing:
 
 - Unit Test, Total feature test, acceptance test (users POV), stability test(stressing)
 
-**2.2 Documentation &amp; PR:**
+##### 2.2 Documentation & PR:
 
 - Minimal documentation for users and also about how the code works (for myself &amp; future Devs) (Code comments, unit test cases above function, etc)
 - PR/Marketing (Write Medium/dev.to/LinkedIn Article, Reddit, Product Hunt, Answering SO, Quora, SEO keywords etc, 4P&#39;s-Price, Product, Place, Promotion, Market Targeting/Segmentation message with differentiation &amp; positioning) (Refer similar software to make marketing message), use good Graphics(pixabay), Test Market(get feedback)
 
-**3. Measurement:**
+#### 3. Measurement:
 
 - Measure &amp; document the estimated time vs actual time taken for subtask, to help in future estimation using my historical values (by seeing time taken previously for similar subtask) and also for retrospective to make things better
 - Google Timer to measure task and then use Google stopwatch to measure extra time taken (This helps in future estimation by comparing estimated time vs actual time)
 
-**4. Retrospective:**
+#### 4. Retrospective:
 
 - Happens at end of sprint, involves looking back at how the sprint went
 - what things I can use? where I can make things better?
@@ -77,13 +77,13 @@ Each Phase should be timeboxed
 - Learn from mistakes (Unnecessarily complex solutions, being perfectionist, using unstable libraries effects quality/stability)
 - Learn from customer question/feedback? Why is customer/user asking/saying that, is there a lacking doc/feature
 
-**Rules:**
+### Rules:
 
 - Time/Deadline &amp; quality (no compromise)
 - Scope (features etc, high impact features first), cost (overtime, etc)
 - Shorter Sprint (1-2 weeks) release product
 
-**Things to Remember:**
+### Things to Remember:
 
 - Eliminate waste (partial work, multitasking, task switching, bugs, extra features, relearning, unnecessarily complex solution, unnecessary stress, building wrong feature, rework, waiting)
 - Concentrate and work on single task at a time
@@ -106,7 +106,7 @@ Each Phase should be timeboxed
 - Batch Check everything one time daily (emails, messages, SMS, calls, news, sites etc) (Don&#39;t check again &amp; again) and mark imp emails to reply at end of work time
 - Headphones (inc conc.mp3) to avoid distraction
 
-**Productivity Tools:**
+### Productivity Tools:
 
 - G Suite (Calendar, sheets etc), VS Code (Code Completion)
 - Code Time (Time tracker metrics)
@@ -115,7 +115,7 @@ Each Phase should be timeboxed
 - GitHub Actions (CI/CD)
 - DeepCode/SynkCode(code review), StandardJS(Consistent code style)
 
-**Why Solo is Great:**
+### Why Solo is Great:
 
 - Be humble &amp; happy &amp; be thankful to God for being solo developer, as you are saved from idiocracies of a team
 - No Difference of opinion
@@ -133,7 +133,7 @@ Each Phase should be timeboxed
 - Great work/life balance being solo
 - Your God is your boss
 
-**Daily Routine:**
+### Daily Routine:
 
 Prophet Muhammad (May God's Peace be on him) has been guiding example for this daily routine.
 
@@ -149,7 +149,7 @@ Divide your daily routine into three different parts
 
 You should give equal importance to each. Some people work whole day without giving time to themselves or their family/Other people. Use this manifesto or Note-Taking app (Google keep-TODO List) or Kanban boards (Asana) to manage personal &amp; Social Time
 
-**Work Time:**
+#### Work Time:
 
 - This is the time you work
 - 9 Hours/Daily(incl breaks) (Note down work starting time, to track how many hrs worked)
@@ -158,7 +158,7 @@ You should give equal importance to each. Some people work whole day without giv
 - Take 15-30min nap 6-7 hrs after waking up (Increases Productivity)
 - Have ergonomics Computer chair & table(keep back posture straight) and take 20sec break every 15mins (Use stretchly, stand up and move during break &amp; stretch your body) (Prevents Computer related injuries)
 
-**Personal Time:**
+#### Personal Time:
 
 - This is the time you give to yourself, for example looking your health, clothes, hygiene, ID renewal etc (For example torn shoes, repair it or get it repaired from cobbler or buy new one)
 - Exercise weekly twice (e.g.: Rope skipping 10mins for healthy heart)(Sat,Tue Fixed Date)
@@ -166,7 +166,7 @@ You should give equal importance to each. Some people work whole day without giv
 - Eat moderately (avoids laziness)
 - Start working on tasks in here after work time
 
-**Family/Social Time:**
+#### Family/Social Time:
 
 - This is the time you give to your family and other people, such as bringing grocery for family, giving time to wife, parents etc, taking family member to doctor when they are sick, helping in household chores etc
 - Start working on tasks in here after work time
@@ -174,7 +174,7 @@ You should give equal importance to each. Some people work whole day without giv
 ---
 
 
-**Manifesto Implementation:**
+### Manifesto Implementation:
 
 The [Free Currency Exchange API](https://github.com/fawazahmed0/currency-api) was made by following this manifesto by a single developer in 2 days time
 
