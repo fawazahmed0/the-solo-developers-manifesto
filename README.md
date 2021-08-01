@@ -90,6 +90,7 @@ Each Phase should be timeboxed
 - Implement new learnings
 - Decide as late as possible (so that to know more about problem and not waste time on things that's not required)
 - Deliver ASAP
+- Prepare about work & deadline mentally(by thinking about it when free or idle)
 - During major blocking issue during operations use stop the line technique -> stop everything (Give importance/resources to issue), assess the issue, and resolve the issue, and learn how to prevent it
 - Don't beg for help, learn & do things yourself
 - If stuck somewhere, then google search in Stack Overflow (& its sister sites) and GitHub issue
