@@ -109,7 +109,7 @@ Each Phase should be timeboxed
 
 ### Productivity Tools:
 
-- G Suite (Calendar, sheets etc), VS Code (Code Completion)
+- G Suite (Calendar, sheets etc), VS Code (Code Completion), GitHub Copilot
 - Code Time (Time tracker metrics)
 - Prowritingaid, Hemingwayapp (Documentation/Marketing message simplification)
 - GitHub Projects (Agile Project Management, Kanban boards)
