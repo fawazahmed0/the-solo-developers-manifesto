@@ -125,9 +125,7 @@ Each Phase should be timeboxed
 - No status updates
 - No conflicts
 - No junk office timings
-- No begging for your rights (leaves etc)
-- No need to lie
-- No need to bow to someone
+- No begging for your rights
 - No need to compete
 - No rules you make the rules,
 - No waste time travelling
