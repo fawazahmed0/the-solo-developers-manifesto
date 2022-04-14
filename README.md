@@ -4,6 +4,12 @@
   <img width="460" height="300" src="https://github.com/fawazahmed0/the-solo-developers-manifesto/raw/main/agile.png">
 </p>
 
+### Credits:
+All credits goes to experienced software developers on different internet forums, who have shared their valuable experience on how we can code better.
+I have collected all this information from different places on internet and have written it into a nicely formatted guide for my personal use.
+
+---
+
 _This guide will help solo developers achieve what could be achieved by teams by God's mercy_
 
 ### Phases:
