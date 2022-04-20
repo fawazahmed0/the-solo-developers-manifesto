@@ -142,10 +142,6 @@ Each Phase should be timeboxed
 
 Prophet Muhammad (May God's Peace be on him) has been guiding example for this daily routine.
 
-Because God says:
-
-_Indeed, in the Messenger of God you have an excellent example ..._ - Quran 33:21
-
 Divide your daily routine into three different parts
 
 - Work Time
