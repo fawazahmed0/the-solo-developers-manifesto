@@ -5,7 +5,7 @@
 </p>
 
 ### Credits:
-All credits goes to experienced software developers on different internet forums, who have shared their valuable experience on how we can code better.
+All credits goes to experienced software developers on different internet forums, who have shared their invaluable experience on how we can code better.
 I have collected all this information from different places on internet and have written it into a nicely formatted guide for my personal use.
 
 ---
