@@ -103,6 +103,7 @@ Each Phase should be timeboxed
 - If stuck, Explain the problem out loud to someone (I prefer God)
 - Consider asking question at Stack Overflow as last resort (Not advisable)
 - commits on one main branch to avoid merge hell (don't keep multiple feature branch)
+- Start your day with most difficult/time-consuming task
 - When a bug is found, tests are created before the bug is addressed (a bug is not an error in logic; it is a test that was not written)
 - embrace change (new features etc)
 - During sprint you might have personal ideas (Urge to Google search something), project related ideas (new features), just write those into personal notes/to-do list(or somwhere else) to refer it back in personal/work time. This will reduce stress and help us to be focused (GTD Method)
