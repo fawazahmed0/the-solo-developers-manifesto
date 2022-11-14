@@ -178,7 +178,7 @@ You should give equal importance to each. Some people work whole day without giv
 
 ### Manifesto Implementation:
 
-The [Free Currency Exchange API](https://github.com/fawazahmed0/currency-api) was made by following this manifesto by a single developer in 2 days time
+The [Free Currency Exchange API](https://github.com/fawazahmed0/currency-api#readme) was made by following this manifesto by a single developer in 2 days time
 
 Please Star this repo by clicking on [:star: button](#) above [:arrow_upper_right:](#)
 
