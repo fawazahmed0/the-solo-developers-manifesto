@@ -10,7 +10,7 @@ I have collected all this information from different places on internet and have
 
 ---
 
-_This guide will help solo developers achieve what could be achieved by teams by God's mercy_
+_This guide will help solo developers achieve what could be achieved by teams through God's mercy_
 
 ### Phases:
 
