@@ -38,7 +38,7 @@ Each Phase should be timeboxed
 - Don't program features until they are actually needed (YAGNI)
 - Write programs that do one thing and do it well and work with other programs
 - complete design: The design must cover as many important situations as is practical. All reasonably expected cases must be covered. Simplicity is not allowed to overly reduce completeness.
-- Use software standards for everything (e.g. semantic versioning etc)
+- Use software standards for everything (e.g. semantic versioning, conventional commits etc)
 
 ##### 1.2 Estimation:
 
