@@ -71,7 +71,7 @@ Each Phase should be timeboxed
 #### 3. Measurement:
 
 - Measure & document the estimated time vs actual time taken for subtask, to help in future estimation using my historical values (by seeing time taken previously for similar subtask) and also for retrospective to make things better
-- Google Timer to measure task and then use Google stopwatch to measure extra time taken (This helps in future estimation by comparing estimated time vs actual time)
+- Measure time taken for task (This helps in future estimation by comparing estimated time vs actual time)
 
 #### 4. Retrospective:
 
