@@ -53,7 +53,7 @@ Each Phase should be timeboxed
 - Track the work daily to meet deadline (GitHub Projects - Kanban boards) & correct productivity/blocking issue if any and prioritize accordingly
 - Use pomodoro Timer Technique for Time Management -> work for n tasks for x mins(30-90mins,depending on estimated time), small break(3-5mins) if fewer than n task completed else large break(10-15mins), pomodoro is indivisible and cannot be interrupted, other things should be done after pomodoro or else abandon pomodoro. After task completion any remaining time used for Reviewing the work and also seeing from learning POV (What I learned? What could be done better etc)
 - Use Test-driven development (TDD) during coding:
-  - Convert software feature/requirement -> test case (concise, note it down for future unit testing),
+  - Convert software feature/requirement -> test case,
   - run test and see it fail,
   - write code to only pass the test (No refactoring)
   - run test and see it pass (the code should not break any existing feature) (if it's gotten hard to pass the above code, then revert the above code to avoid excessive debugging) & commit,
