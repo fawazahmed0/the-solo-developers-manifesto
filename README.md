@@ -97,7 +97,7 @@ Each Phase should be timeboxed
 - Prepare about work & deadline mentally(by thinking about it  before starting the work or when free or idle)
 - During major blocking issue during operations use stop the line technique -> stop everything (Give importance/resources to issue), assess the issue, and resolve the issue, and learn how to prevent it
 - Don't beg for help, learn & do things yourself
-- If stuck somewhere, then google search in Stack Overflow (& its sister sites) and GitHub issue
+- If stuck somewhere, then google search in Stack Overflow (& its sister sites) and GitHub issues
 - If stuck, Explain the problem out loud to someone (I prefer God)
 - Consider asking question at Stack Overflow as last resort (Not advisable)
 - commits on one main branch to avoid merge hell (don't keep multiple feature branch)
