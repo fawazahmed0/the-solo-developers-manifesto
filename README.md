@@ -57,7 +57,7 @@ Each Phase should be timeboxed
   - run test and see it fail,
   - write code to only pass the test (No refactoring)
   - run test and see it pass (the code should not break any existing feature) (if it's gotten hard to pass the above code, then revert the above code to avoid excessive debugging) & commit,
-  - refactor the new code and the whole code & commit (deepcode/standardjs --fix)
+  - refactor the new code(incl. test code/test steps) and the whole code & commit
 
 ##### 2.1 Testing:
 
