@@ -109,7 +109,7 @@ Each Phase should be timeboxed
 - Automated testing (unit etc), CI/CD is great for software which have to be maintained for long time/always and not for small GitHub hobby projects which are onetime thing
 - High cohesion in function (only does one simple task) and low coupling (low dependency on other function)
 - Take break/nap(~30mins) when no longer productive/frustrated, if doesn't work, then do the work next day
-- Batch Check everything one time daily (emails, messages, SMS, calls, news, sites etc) (Don't check again & again) and mark imp emails to reply at end of work time
+- Batch Check everything daily at end of work time (emails, messages, SMS, calls, news, sites etc) (Don't check again & again) and mark imp emails to reply at end of work time
 - Headphones (inc conc.mp3) to avoid distraction
 
 ### Productivity Tools:
