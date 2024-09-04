@@ -109,7 +109,7 @@ Each Phase should be timeboxed
 - High cohesion in function (only does one simple task) and low coupling (low dependency on other function)
 - Don't check social media, emails, etc or surf the internet during breaks
 - Take break/nap(~30mins) when no longer productive/frustrated, if doesn't work, then do the work next day
-- Take short outdoor work or stare out of window in break
+- Take short outdoor walk or stare out of window in break
 - Batch Check everything daily at end of work time (emails, messages, SMS, calls, news, sites etc) (Don't check again & again) and mark imp emails to reply at end of work time
 - Headphones (inc conc.mp3) to avoid distraction
 
