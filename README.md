@@ -51,7 +51,7 @@ Each Phase should be timeboxed
 - Make sure I am following the manifesto properly
 - Start day by observing/tracking yesterday's task and deadline, things TODO today, and any blocking issue to fix it
 - Track the work daily to meet deadline (GitHub Projects - Kanban boards) & correct productivity/blocking issue if any and prioritize accordingly
-- Use pomodoro Timer Technique for Time Management -> work for n tasks for x mins(30-90mins,depending on estimated time), small break(3-5mins) if fewer than n task completed else large break(10-15mins), pomodoro is indivisible and cannot be interrupted, other things should be done after pomodoro or else abandon pomodoro. After task completion any remaining time used for Reviewing the work and also seeing from learning POV (What I learned? What could be done better etc)
+- Use pomodoro Timer Technique for Time Management -> work for n tasks for x mins(30-90mins,depending on estimated time), take small breaks(1min) after each pomodoro (larger 10-15mins break in late afternoon), pomodoro is indivisible and cannot be interrupted, other things should be done after pomodoro or else abandon pomodoro. After task completion any remaining time used for Reviewing the work and also seeing from learning POV (What I learned? What could be done better etc)
 - Use Test-driven development (TDD) during coding:
   - Convert software feature/requirement -> test case,
   - run test and see it fail,
@@ -108,7 +108,9 @@ Each Phase should be timeboxed
 - Reread this manifesto, when you are at low productivity
 - Automated testing (unit etc), CI/CD is great for software which have to be maintained for long time/always and not for small GitHub hobby projects which are onetime thing
 - High cohesion in function (only does one simple task) and low coupling (low dependency on other function)
+- Don't check social media, emails, etc or surf the internet during breaks
 - Take break/nap(~30mins) when no longer productive/frustrated, if doesn't work, then do the work next day
+- Take short outdoor work in break
 - Batch Check everything daily at end of work time (emails, messages, SMS, calls, news, sites etc) (Don't check again & again) and mark imp emails to reply at end of work time
 - Headphones (inc conc.mp3) to avoid distraction
 
@@ -152,7 +154,7 @@ You should give equal importance to each. Some people work whole day without giv
 #### Work Time:
 
 - This is the time you work
-- 9 Hours/Daily(incl breaks) (Note down work starting time, to track how many hrs worked)
+- 8 Hours/Daily(excl. breaks) (Note down work starting time, to track how many hrs worked)
 - Prefer working after waking up (Start with work, rather than checking emails, messages, SMS, calls, news, sites etc to avoid distractions)
 - 1-day rest after every iteration/sprint/release
 - Take 15-30min nap 6-7 hrs after waking up (Increases Productivity)
