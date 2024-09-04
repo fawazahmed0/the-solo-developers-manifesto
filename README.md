@@ -51,7 +51,7 @@ Each Phase should be timeboxed
 - Make sure I am following the manifesto properly
 - Start day by observing/tracking yesterday's task and deadline, things TODO today, and any blocking issue to fix it
 - Track the work daily to meet deadline (GitHub Projects - Kanban boards) & correct productivity/blocking issue if any and prioritize accordingly
-- Use pomodoro Timer Technique for Time Management -> work for n tasks for x mins(30-90mins,depending on estimated time), take small breaks(1min) after each pomodoro (larger 10-15mins break in late afternoon), pomodoro is indivisible and cannot be interrupted, other things should be done after pomodoro or else abandon pomodoro. After task completion any remaining time used for Reviewing the work and also seeing from learning POV (What I learned? What could be done better etc)
+- Use pomodoro Timer Technique for Time Management -> work for n tasks for x mins(52-90mins,depending on estimated time), take small breaks(1min) after each pomodoro (larger 10-15mins break in late afternoon), pomodoro is indivisible and cannot be interrupted, other things should be done after pomodoro or else abandon pomodoro. After task completion any remaining time used for Reviewing the work and also seeing from learning POV (What I learned? What could be done better etc)
 - Use Test-driven development (TDD) during coding:
   - Convert software feature/requirement -> test case,
   - run test and see it fail,
