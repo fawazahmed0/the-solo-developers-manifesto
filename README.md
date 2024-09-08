@@ -153,7 +153,7 @@ You should give equal importance to each. Some people work whole day without giv
 #### Work Time:
 
 - This is the time you work
-- 8 Hours/Daily(excl. breaks) (Note down work starting time, to track how many hrs worked)
+- 8 Hours/Daily(excl. breaks) (Note down work starting time, to track how many hrs worked) (No timelimit, No Productivity)
 - Prefer working after waking up (Start with work, rather than checking emails, messages, SMS, calls, news, sites etc to avoid distractions)
 - 1-day rest after every iteration/sprint/release (max work hour 48 hours/week)
 - Take 15-30min nap 6-7 hrs after waking up (Increases Productivity)
