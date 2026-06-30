@@ -109,7 +109,10 @@ Each Phase should be timeboxed
 - High cohesion in function (only does one simple task) and low coupling (low dependency on other function)
 - Don't check social media, emails, etc or surf the internet during breaks
 - Take break/nap(~30mins) when no longer productive/frustrated, if doesn't work, then do the work next day
-- Take short outdoor walk or stare out of window in break (for productivity)
+- Microbreak: 1 minute/20 minutes, break: 15 minutes/1.5 hours (programmed breaks)
+- Perceptions to have for productivity: My break is enjoyable; I have very few tasks to complete; I have enough time on my hands; Have Positivity about Job/work you do during non work hours
+- Complete Psychological detachment from work during break & non-work hours(switch off and forget about work)
+- You decide how & when a task is completed and what time you will work etc (Job crafting)
 - Batch Check everything daily at end of work time (emails, messages, SMS, calls, news, sites etc) (Don't check again & again)
 - Headphones (inc conc.mp3) to avoid distraction
 
@@ -153,10 +156,8 @@ You should give equal importance to each. Some people work whole day without giv
 #### Work Time:
 
 - This is the time you work
-- 9 Hours/Daily(incl. breaks) (Note down work starting time & estimate work ending time) (No timelimit, No Productivity)
+- <=6 Hours/Daily(excl. breaks) (Note down work starting time & estimate work ending time) (No timelimit, No Productivity)
 - Prefer working after waking up (Start with work, rather than checking emails, messages, SMS, calls, news, sites etc to avoid distractions)
-- 1-day rest every week (max work hour 48 hours/week)
-- Take 15-30min nap 6-7 hrs after waking up (Increases Productivity)
 - Have ergonomics Computer chair & table(keep back posture straight)
 
 #### Personal Time:
@@ -166,6 +167,7 @@ You should give equal importance to each. Some people work whole day without giv
 - Be physically active by performing household chores
 - Eat moderately (avoids laziness)
 - Start working on tasks in here after work time
+- No sleep deprivation (for productivity)
 
 #### Family/Social Time:
 
